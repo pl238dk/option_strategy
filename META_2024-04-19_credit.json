@@ -1,0 +1,3308 @@
+{
+  "calls": [
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 520.0,
+        "bid": 9.5,
+        "mid": 9.65,
+        "ask": 9.8,
+        "ratio": 0.030612244897959252,
+        "volume": 6006
+      },
+      "short": {
+        "strike": 515.0,
+        "bid": 11.6,
+        "mid": 11.75,
+        "ask": 11.9,
+        "ratio": 0.025210084033613505,
+        "volume": 4269
+      },
+      "net_credit": 209.99999999999997,
+      "margin": 500.0,
+      "max_profit": 290.0,
+      "max_loss": 290.0,
+      "roc": 0.41999999999999993,
+      "pop": 58.00000000000001,
+      "breakeven": 517.1
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 525.0,
+        "bid": 7.7,
+        "mid": 7.800000000000001,
+        "ask": 7.9,
+        "ratio": 0.025316455696202552,
+        "volume": 4986
+      },
+      "short": {
+        "strike": 520.0,
+        "bid": 9.5,
+        "mid": 9.65,
+        "ask": 9.8,
+        "ratio": 0.030612244897959252,
+        "volume": 6006
+      },
+      "net_credit": 184.99999999999997,
+      "margin": 500.0,
+      "max_profit": 315.0,
+      "max_loss": 315.0,
+      "roc": 0.36999999999999994,
+      "pop": 63.00000000000001,
+      "breakeven": 521.85
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 530.0,
+        "bid": 6.05,
+        "mid": 6.175,
+        "ask": 6.3,
+        "ratio": 0.03968253968253968,
+        "volume": 5779
+      },
+      "short": {
+        "strike": 525.0,
+        "bid": 7.7,
+        "mid": 7.800000000000001,
+        "ask": 7.9,
+        "ratio": 0.025316455696202552,
+        "volume": 4986
+      },
+      "net_credit": 162.50000000000009,
+      "margin": 500.0,
+      "max_profit": 337.4999999999999,
+      "max_loss": 337.4999999999999,
+      "roc": 0.3250000000000002,
+      "pop": 67.49999999999999,
+      "breakeven": 526.625
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 535.0,
+        "bid": 4.8,
+        "mid": 4.9,
+        "ask": 5.0,
+        "ratio": 0.040000000000000036,
+        "volume": 6895
+      },
+      "short": {
+        "strike": 530.0,
+        "bid": 6.05,
+        "mid": 6.175,
+        "ask": 6.3,
+        "ratio": 0.03968253968253968,
+        "volume": 5779
+      },
+      "net_credit": 127.49999999999994,
+      "margin": 500.0,
+      "max_profit": 372.50000000000006,
+      "max_loss": 372.50000000000006,
+      "roc": 0.2549999999999999,
+      "pop": 74.50000000000001,
+      "breakeven": 531.275
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 540.0,
+        "bid": 3.75,
+        "mid": 3.85,
+        "ask": 3.95,
+        "ratio": 0.050632911392405104,
+        "volume": 7429
+      },
+      "short": {
+        "strike": 535.0,
+        "bid": 4.8,
+        "mid": 4.9,
+        "ask": 5.0,
+        "ratio": 0.040000000000000036,
+        "volume": 6895
+      },
+      "net_credit": 105.00000000000003,
+      "margin": 500.0,
+      "max_profit": 395.0,
+      "max_loss": 395.0,
+      "roc": 0.21000000000000005,
+      "pop": 79.0,
+      "breakeven": 536.05
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 545.0,
+        "bid": 2.92,
+        "mid": 3.01,
+        "ask": 3.1,
+        "ratio": 0.05806451612903231,
+        "volume": 1573
+      },
+      "short": {
+        "strike": 540.0,
+        "bid": 3.75,
+        "mid": 3.85,
+        "ask": 3.95,
+        "ratio": 0.050632911392405104,
+        "volume": 7429
+      },
+      "net_credit": 84.00000000000003,
+      "margin": 500.0,
+      "max_profit": 416.0,
+      "max_loss": 416.0,
+      "roc": 0.16800000000000007,
+      "pop": 83.19999999999999,
+      "breakeven": 540.84
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 550.0,
+        "bid": 2.25,
+        "mid": 2.325,
+        "ask": 2.4,
+        "ratio": 0.062499999999999965,
+        "volume": 6969
+      },
+      "short": {
+        "strike": 545.0,
+        "bid": 2.92,
+        "mid": 3.01,
+        "ask": 3.1,
+        "ratio": 0.05806451612903231,
+        "volume": 1573
+      },
+      "net_credit": 68.49999999999996,
+      "margin": 500.0,
+      "max_profit": 431.50000000000006,
+      "max_loss": 431.50000000000006,
+      "roc": 0.13699999999999993,
+      "pop": 86.30000000000001,
+      "breakeven": 545.685
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 555.0,
+        "bid": 1.75,
+        "mid": 1.795,
+        "ask": 1.84,
+        "ratio": 0.04891304347826091,
+        "volume": 680
+      },
+      "short": {
+        "strike": 550.0,
+        "bid": 2.25,
+        "mid": 2.325,
+        "ask": 2.4,
+        "ratio": 0.062499999999999965,
+        "volume": 6969
+      },
+      "net_credit": 53.00000000000003,
+      "margin": 500.0,
+      "max_profit": 447.0,
+      "max_loss": 447.0,
+      "roc": 0.10600000000000005,
+      "pop": 89.39999999999999,
+      "breakeven": 550.53
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 560.0,
+        "bid": 1.34,
+        "mid": 1.385,
+        "ask": 1.43,
+        "ratio": 0.06293706293706285,
+        "volume": 1035
+      },
+      "short": {
+        "strike": 555.0,
+        "bid": 1.75,
+        "mid": 1.795,
+        "ask": 1.84,
+        "ratio": 0.04891304347826091,
+        "volume": 680
+      },
+      "net_credit": 40.99999999999999,
+      "margin": 500.0,
+      "max_profit": 459.0,
+      "max_loss": 459.0,
+      "roc": 0.08199999999999999,
+      "pop": 91.8,
+      "breakeven": 555.41
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 565.0,
+        "bid": 1.03,
+        "mid": 1.065,
+        "ask": 1.1,
+        "ratio": 0.06363636363636369,
+        "volume": 908
+      },
+      "short": {
+        "strike": 560.0,
+        "bid": 1.34,
+        "mid": 1.385,
+        "ask": 1.43,
+        "ratio": 0.06293706293706285,
+        "volume": 1035
+      },
+      "net_credit": 32.00000000000001,
+      "margin": 500.0,
+      "max_profit": 468.0,
+      "max_loss": 468.0,
+      "roc": 0.06400000000000002,
+      "pop": 93.6,
+      "breakeven": 560.32
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 570.0,
+        "bid": 0.8,
+        "mid": 0.825,
+        "ask": 0.85,
+        "ratio": 0.05882352941176463,
+        "volume": 812
+      },
+      "short": {
+        "strike": 565.0,
+        "bid": 1.03,
+        "mid": 1.065,
+        "ask": 1.1,
+        "ratio": 0.06363636363636369,
+        "volume": 908
+      },
+      "net_credit": 24.0,
+      "margin": 500.0,
+      "max_profit": 476.0,
+      "max_loss": 476.0,
+      "roc": 0.048,
+      "pop": 95.2,
+      "breakeven": 565.24
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 575.0,
+        "bid": 0.61,
+        "mid": 0.635,
+        "ask": 0.66,
+        "ratio": 0.07575757575757582,
+        "volume": 935
+      },
+      "short": {
+        "strike": 570.0,
+        "bid": 0.8,
+        "mid": 0.825,
+        "ask": 0.85,
+        "ratio": 0.05882352941176463,
+        "volume": 812
+      },
+      "net_credit": 18.999999999999993,
+      "margin": 500.0,
+      "max_profit": 481.0,
+      "max_loss": 481.0,
+      "roc": 0.037999999999999985,
+      "pop": 96.2,
+      "breakeven": 570.19
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 580.0,
+        "bid": 0.48,
+        "mid": 0.505,
+        "ask": 0.53,
+        "ratio": 0.09433962264150951,
+        "volume": 358
+      },
+      "short": {
+        "strike": 575.0,
+        "bid": 0.61,
+        "mid": 0.635,
+        "ask": 0.66,
+        "ratio": 0.07575757575757582,
+        "volume": 935
+      },
+      "net_credit": 13.0,
+      "margin": 500.0,
+      "max_profit": 487.0,
+      "max_loss": 487.0,
+      "roc": 0.026,
+      "pop": 97.4,
+      "breakeven": 575.13
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 585.0,
+        "bid": 0.38,
+        "mid": 0.4,
+        "ask": 0.42,
+        "ratio": 0.09523809523809519,
+        "volume": 248
+      },
+      "short": {
+        "strike": 580.0,
+        "bid": 0.48,
+        "mid": 0.505,
+        "ask": 0.53,
+        "ratio": 0.09433962264150951,
+        "volume": 358
+      },
+      "net_credit": 10.499999999999998,
+      "margin": 500.0,
+      "max_profit": 489.5,
+      "max_loss": 489.5,
+      "roc": 0.020999999999999998,
+      "pop": 97.9,
+      "breakeven": 580.105
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 590.0,
+        "bid": 0.3,
+        "mid": 0.315,
+        "ask": 0.33,
+        "ratio": 0.09090909090909098,
+        "volume": 259
+      },
+      "short": {
+        "strike": 585.0,
+        "bid": 0.38,
+        "mid": 0.4,
+        "ask": 0.42,
+        "ratio": 0.09523809523809519,
+        "volume": 248
+      },
+      "net_credit": 8.500000000000002,
+      "margin": 500.0,
+      "max_profit": 491.5,
+      "max_loss": 491.5,
+      "roc": 0.017000000000000005,
+      "pop": 98.3,
+      "breakeven": 585.085
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 595.0,
+        "bid": 0.24,
+        "mid": 0.255,
+        "ask": 0.27,
+        "ratio": 0.1111111111111112,
+        "volume": 68
+      },
+      "short": {
+        "strike": 590.0,
+        "bid": 0.3,
+        "mid": 0.315,
+        "ask": 0.33,
+        "ratio": 0.09090909090909098,
+        "volume": 259
+      },
+      "net_credit": 6.0,
+      "margin": 500.0,
+      "max_profit": 494.0,
+      "max_loss": 494.0,
+      "roc": 0.012,
+      "pop": 98.8,
+      "breakeven": 590.06
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 600.0,
+        "bid": 0.2,
+        "mid": 0.21000000000000002,
+        "ask": 0.22,
+        "ratio": 0.09090909090909087,
+        "volume": 13934
+      },
+      "short": {
+        "strike": 595.0,
+        "bid": 0.24,
+        "mid": 0.255,
+        "ask": 0.27,
+        "ratio": 0.1111111111111112,
+        "volume": 68
+      },
+      "net_credit": 4.499999999999998,
+      "margin": 500.0,
+      "max_profit": 495.5,
+      "max_loss": 495.5,
+      "roc": 0.008999999999999996,
+      "pop": 99.1,
+      "breakeven": 595.045
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 605.0,
+        "bid": 0.14,
+        "mid": 0.16,
+        "ask": 0.18,
+        "ratio": 0.22222222222222213,
+        "volume": 96
+      },
+      "short": {
+        "strike": 600.0,
+        "bid": 0.2,
+        "mid": 0.21000000000000002,
+        "ask": 0.22,
+        "ratio": 0.09090909090909087,
+        "volume": 13934
+      },
+      "net_credit": 5.000000000000002,
+      "margin": 500.0,
+      "max_profit": 495.0,
+      "max_loss": 495.0,
+      "roc": 0.010000000000000004,
+      "pop": 99.0,
+      "breakeven": 600.05
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 610.0,
+        "bid": 0.12,
+        "mid": 0.135,
+        "ask": 0.15,
+        "ratio": 0.2,
+        "volume": 70
+      },
+      "short": {
+        "strike": 605.0,
+        "bid": 0.14,
+        "mid": 0.16,
+        "ask": 0.18,
+        "ratio": 0.22222222222222213,
+        "volume": 96
+      },
+      "net_credit": 2.4999999999999996,
+      "margin": 500.0,
+      "max_profit": 497.5,
+      "max_loss": 497.5,
+      "roc": 0.004999999999999999,
+      "pop": 99.5,
+      "breakeven": 605.025
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 615.0,
+        "bid": 0.1,
+        "mid": 0.115,
+        "ask": 0.13,
+        "ratio": 0.23076923076923075,
+        "volume": 15
+      },
+      "short": {
+        "strike": 610.0,
+        "bid": 0.12,
+        "mid": 0.135,
+        "ask": 0.15,
+        "ratio": 0.2,
+        "volume": 70
+      },
+      "net_credit": 2.0000000000000004,
+      "margin": 500.0,
+      "max_profit": 498.0,
+      "max_loss": 498.0,
+      "roc": 0.004000000000000001,
+      "pop": 99.6,
+      "breakeven": 610.02
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 620.0,
+        "bid": 0.1,
+        "mid": 0.10500000000000001,
+        "ask": 0.11,
+        "ratio": 0.09090909090909087,
+        "volume": 8
+      },
+      "short": {
+        "strike": 615.0,
+        "bid": 0.1,
+        "mid": 0.115,
+        "ask": 0.13,
+        "ratio": 0.23076923076923075,
+        "volume": 15
+      },
+      "net_credit": 0.9999999999999996,
+      "margin": 500.0,
+      "max_profit": 499.0,
+      "max_loss": 499.0,
+      "roc": 0.001999999999999999,
+      "pop": 99.8,
+      "breakeven": 615.01
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 625.0,
+        "bid": 0.06,
+        "mid": 0.08,
+        "ask": 0.1,
+        "ratio": 0.4000000000000001,
+        "volume": 25
+      },
+      "short": {
+        "strike": 620.0,
+        "bid": 0.1,
+        "mid": 0.10500000000000001,
+        "ask": 0.11,
+        "ratio": 0.09090909090909087,
+        "volume": 8
+      },
+      "net_credit": 2.500000000000001,
+      "margin": 500.0,
+      "max_profit": 497.5,
+      "max_loss": 497.5,
+      "roc": 0.005000000000000002,
+      "pop": 99.5,
+      "breakeven": 620.025
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 630.0,
+        "bid": 0.05,
+        "mid": 0.065,
+        "ask": 0.08,
+        "ratio": 0.375,
+        "volume": 49
+      },
+      "short": {
+        "strike": 625.0,
+        "bid": 0.06,
+        "mid": 0.08,
+        "ask": 0.1,
+        "ratio": 0.4000000000000001,
+        "volume": 25
+      },
+      "net_credit": 1.5,
+      "margin": 500.0,
+      "max_profit": 498.5,
+      "max_loss": 498.5,
+      "roc": 0.003,
+      "pop": 99.7,
+      "breakeven": 625.015
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 635.0,
+        "bid": 0.04,
+        "mid": 0.05500000000000001,
+        "ask": 0.07,
+        "ratio": 0.4285714285714286,
+        "volume": 69
+      },
+      "short": {
+        "strike": 630.0,
+        "bid": 0.05,
+        "mid": 0.065,
+        "ask": 0.08,
+        "ratio": 0.375,
+        "volume": 49
+      },
+      "net_credit": 0.9999999999999996,
+      "margin": 500.0,
+      "max_profit": 499.0,
+      "max_loss": 499.0,
+      "roc": 0.001999999999999999,
+      "pop": 99.8,
+      "breakeven": 630.01
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 640.0,
+        "bid": 0.03,
+        "mid": 0.05,
+        "ask": 0.07,
+        "ratio": 0.5714285714285715,
+        "volume": 221
+      },
+      "short": {
+        "strike": 635.0,
+        "bid": 0.04,
+        "mid": 0.05500000000000001,
+        "ask": 0.07,
+        "ratio": 0.4285714285714286,
+        "volume": 69
+      },
+      "net_credit": 0.5000000000000004,
+      "margin": 500.0,
+      "max_profit": 499.5,
+      "max_loss": 499.5,
+      "roc": 0.0010000000000000009,
+      "pop": 99.9,
+      "breakeven": 635.005
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 645.0,
+        "bid": 0.02,
+        "mid": 0.04,
+        "ask": 0.06,
+        "ratio": 0.6666666666666666,
+        "volume": 112
+      },
+      "short": {
+        "strike": 640.0,
+        "bid": 0.03,
+        "mid": 0.05,
+        "ask": 0.07,
+        "ratio": 0.5714285714285715,
+        "volume": 221
+      },
+      "net_credit": 1.0000000000000002,
+      "margin": 500.0,
+      "max_profit": 499.0,
+      "max_loss": 499.0,
+      "roc": 0.0020000000000000005,
+      "pop": 99.8,
+      "breakeven": 640.01
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 650.0,
+        "bid": 0.02,
+        "mid": 0.035,
+        "ask": 0.05,
+        "ratio": 0.6,
+        "volume": 194
+      },
+      "short": {
+        "strike": 645.0,
+        "bid": 0.02,
+        "mid": 0.04,
+        "ask": 0.06,
+        "ratio": 0.6666666666666666,
+        "volume": 112
+      },
+      "net_credit": 0.4999999999999998,
+      "margin": 500.0,
+      "max_profit": 499.5,
+      "max_loss": 499.5,
+      "roc": 0.0009999999999999996,
+      "pop": 99.9,
+      "breakeven": 645.005
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 655.0,
+        "bid": 0.01,
+        "mid": 0.030000000000000002,
+        "ask": 0.05,
+        "ratio": 0.7999999999999999,
+        "volume": 313
+      },
+      "short": {
+        "strike": 650.0,
+        "bid": 0.02,
+        "mid": 0.035,
+        "ask": 0.05,
+        "ratio": 0.6,
+        "volume": 194
+      },
+      "net_credit": 0.5000000000000001,
+      "margin": 500.0,
+      "max_profit": 499.5,
+      "max_loss": 499.5,
+      "roc": 0.0010000000000000002,
+      "pop": 99.9,
+      "breakeven": 650.005
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 660.0,
+        "bid": 0.01,
+        "mid": 0.025,
+        "ask": 0.04,
+        "ratio": 0.75,
+        "volume": 301
+      },
+      "short": {
+        "strike": 655.0,
+        "bid": 0.01,
+        "mid": 0.030000000000000002,
+        "ask": 0.05,
+        "ratio": 0.7999999999999999,
+        "volume": 313
+      },
+      "net_credit": 0.5000000000000001,
+      "margin": 500.0,
+      "max_profit": 499.5,
+      "max_loss": 499.5,
+      "roc": 0.0010000000000000002,
+      "pop": 99.9,
+      "breakeven": 655.005
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 665.0,
+        "bid": 0.0,
+        "mid": 0.02,
+        "ask": 0.04,
+        "ratio": 1.0,
+        "volume": 5
+      },
+      "short": {
+        "strike": 660.0,
+        "bid": 0.01,
+        "mid": 0.025,
+        "ask": 0.04,
+        "ratio": 0.75,
+        "volume": 301
+      },
+      "net_credit": 0.5000000000000001,
+      "margin": 500.0,
+      "max_profit": 499.5,
+      "max_loss": 499.5,
+      "roc": 0.0010000000000000002,
+      "pop": 99.9,
+      "breakeven": 660.005
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 670.0,
+        "bid": 0.01,
+        "mid": 0.025,
+        "ask": 0.04,
+        "ratio": 0.75,
+        "volume": 20
+      },
+      "short": {
+        "strike": 665.0,
+        "bid": 0.0,
+        "mid": 0.02,
+        "ask": 0.04,
+        "ratio": 1.0,
+        "volume": 5
+      },
+      "net_credit": -0.5000000000000001,
+      "margin": 500.0,
+      "max_profit": 499.5,
+      "max_loss": 500.5,
+      "roc": 0.0010000000000000002,
+      "pop": 99.9,
+      "breakeven": 665.005
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 675.0,
+        "bid": 0.0,
+        "mid": 0.015,
+        "ask": 0.03,
+        "ratio": 1.0,
+        "volume": 1
+      },
+      "short": {
+        "strike": 670.0,
+        "bid": 0.01,
+        "mid": 0.025,
+        "ask": 0.04,
+        "ratio": 0.75,
+        "volume": 20
+      },
+      "net_credit": 1.0000000000000002,
+      "margin": 500.0,
+      "max_profit": 499.0,
+      "max_loss": 499.0,
+      "roc": 0.0020000000000000005,
+      "pop": 99.8,
+      "breakeven": 670.01
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 680.0,
+        "bid": 0.01,
+        "mid": 0.02,
+        "ask": 0.03,
+        "ratio": 0.6666666666666666,
+        "volume": 15
+      },
+      "short": {
+        "strike": 675.0,
+        "bid": 0.0,
+        "mid": 0.015,
+        "ask": 0.03,
+        "ratio": 1.0,
+        "volume": 1
+      },
+      "net_credit": -0.5000000000000001,
+      "margin": 500.0,
+      "max_profit": 499.5,
+      "max_loss": 500.5,
+      "roc": 0.0010000000000000002,
+      "pop": 99.9,
+      "breakeven": 675.005
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 685.0,
+        "bid": 0.0,
+        "mid": 0.015,
+        "ask": 0.03,
+        "ratio": 1.0,
+        "volume": 1
+      },
+      "short": {
+        "strike": 680.0,
+        "bid": 0.01,
+        "mid": 0.02,
+        "ask": 0.03,
+        "ratio": 0.6666666666666666,
+        "volume": 15
+      },
+      "net_credit": 0.5000000000000001,
+      "margin": 500.0,
+      "max_profit": 499.5,
+      "max_loss": 499.5,
+      "roc": 0.0010000000000000002,
+      "pop": 99.9,
+      "breakeven": 680.005
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 690.0,
+        "bid": 0.0,
+        "mid": 0.015,
+        "ask": 0.03,
+        "ratio": 1.0,
+        "volume": 1
+      },
+      "short": {
+        "strike": 685.0,
+        "bid": 0.0,
+        "mid": 0.015,
+        "ask": 0.03,
+        "ratio": 1.0,
+        "volume": 1
+      },
+      "net_credit": 0.0,
+      "margin": 500.0,
+      "max_profit": 500.0,
+      "max_loss": 500.0,
+      "roc": 0.0,
+      "pop": 100.0,
+      "breakeven": 685.0
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 700.0,
+        "bid": 0.0,
+        "mid": 0.01,
+        "ask": 0.02,
+        "ratio": 1.0,
+        "volume": 417
+      },
+      "short": {
+        "strike": 690.0,
+        "bid": 0.0,
+        "mid": 0.015,
+        "ask": 0.03,
+        "ratio": 1.0,
+        "volume": 1
+      },
+      "net_credit": 0.49999999999999994,
+      "margin": 1000.0,
+      "max_profit": 999.5,
+      "max_loss": 999.5,
+      "roc": 0.0004999999999999999,
+      "pop": 99.95,
+      "breakeven": 690.005
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 710.0,
+        "bid": 0.0,
+        "mid": 0.01,
+        "ask": 0.02,
+        "ratio": 1.0,
+        "volume": 1
+      },
+      "short": {
+        "strike": 700.0,
+        "bid": 0.0,
+        "mid": 0.01,
+        "ask": 0.02,
+        "ratio": 1.0,
+        "volume": 417
+      },
+      "net_credit": 0.0,
+      "margin": 1000.0,
+      "max_profit": 1000.0,
+      "max_loss": 1000.0,
+      "roc": 0.0,
+      "pop": 100.0,
+      "breakeven": 700.0
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 720.0,
+        "bid": 0.01,
+        "mid": 0.015,
+        "ask": 0.02,
+        "ratio": 0.5,
+        "volume": 11
+      },
+      "short": {
+        "strike": 710.0,
+        "bid": 0.0,
+        "mid": 0.01,
+        "ask": 0.02,
+        "ratio": 1.0,
+        "volume": 1
+      },
+      "net_credit": -0.49999999999999994,
+      "margin": 1000.0,
+      "max_profit": 999.5,
+      "max_loss": 1000.5,
+      "roc": 0.0004999999999999999,
+      "pop": 99.95,
+      "breakeven": 710.005
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 730.0,
+        "bid": 0.0,
+        "mid": 0.01,
+        "ask": 0.02,
+        "ratio": 1.0,
+        "volume": 6
+      },
+      "short": {
+        "strike": 720.0,
+        "bid": 0.01,
+        "mid": 0.015,
+        "ask": 0.02,
+        "ratio": 0.5,
+        "volume": 11
+      },
+      "net_credit": 0.49999999999999994,
+      "margin": 1000.0,
+      "max_profit": 999.5,
+      "max_loss": 999.5,
+      "roc": 0.0004999999999999999,
+      "pop": 99.95,
+      "breakeven": 720.005
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 740.0,
+        "bid": 0.0,
+        "mid": 0.01,
+        "ask": 0.02,
+        "ratio": 1.0,
+        "volume": 1
+      },
+      "short": {
+        "strike": 730.0,
+        "bid": 0.0,
+        "mid": 0.01,
+        "ask": 0.02,
+        "ratio": 1.0,
+        "volume": 6
+      },
+      "net_credit": 0.0,
+      "margin": 1000.0,
+      "max_profit": 1000.0,
+      "max_loss": 1000.0,
+      "roc": 0.0,
+      "pop": 100.0,
+      "breakeven": 730.0
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 750.0,
+        "bid": 0.0,
+        "mid": 0.01,
+        "ask": 0.02,
+        "ratio": 1.0,
+        "volume": 1
+      },
+      "short": {
+        "strike": 740.0,
+        "bid": 0.0,
+        "mid": 0.01,
+        "ask": 0.02,
+        "ratio": 1.0,
+        "volume": 1
+      },
+      "net_credit": 0.0,
+      "margin": 1000.0,
+      "max_profit": 1000.0,
+      "max_loss": 1000.0,
+      "roc": 0.0,
+      "pop": 100.0,
+      "breakeven": 740.0
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 760.0,
+        "bid": 0.0,
+        "mid": 0.01,
+        "ask": 0.02,
+        "ratio": 1.0,
+        "volume": 12
+      },
+      "short": {
+        "strike": 750.0,
+        "bid": 0.0,
+        "mid": 0.01,
+        "ask": 0.02,
+        "ratio": 1.0,
+        "volume": 1
+      },
+      "net_credit": 0.0,
+      "margin": 1000.0,
+      "max_profit": 1000.0,
+      "max_loss": 1000.0,
+      "roc": 0.0,
+      "pop": 100.0,
+      "breakeven": 750.0
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 770.0,
+        "bid": 0.0,
+        "mid": 0.01,
+        "ask": 0.02,
+        "ratio": 1.0,
+        "volume": 6
+      },
+      "short": {
+        "strike": 760.0,
+        "bid": 0.0,
+        "mid": 0.01,
+        "ask": 0.02,
+        "ratio": 1.0,
+        "volume": 12
+      },
+      "net_credit": 0.0,
+      "margin": 1000.0,
+      "max_profit": 1000.0,
+      "max_loss": 1000.0,
+      "roc": 0.0,
+      "pop": 100.0,
+      "breakeven": 760.0
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 780.0,
+        "bid": 0.0,
+        "mid": 0.01,
+        "ask": 0.02,
+        "ratio": 1.0,
+        "volume": 30
+      },
+      "short": {
+        "strike": 770.0,
+        "bid": 0.0,
+        "mid": 0.01,
+        "ask": 0.02,
+        "ratio": 1.0,
+        "volume": 6
+      },
+      "net_credit": 0.0,
+      "margin": 1000.0,
+      "max_profit": 1000.0,
+      "max_loss": 1000.0,
+      "roc": 0.0,
+      "pop": 100.0,
+      "breakeven": 770.0
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 790.0,
+        "bid": 0.0,
+        "mid": 0.01,
+        "ask": 0.02,
+        "ratio": 1.0,
+        "volume": 1
+      },
+      "short": {
+        "strike": 780.0,
+        "bid": 0.0,
+        "mid": 0.01,
+        "ask": 0.02,
+        "ratio": 1.0,
+        "volume": 30
+      },
+      "net_credit": 0.0,
+      "margin": 1000.0,
+      "max_profit": 1000.0,
+      "max_loss": 1000.0,
+      "roc": 0.0,
+      "pop": 100.0,
+      "breakeven": 780.0
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 800.0,
+        "bid": 0.0,
+        "mid": 0.005,
+        "ask": 0.01,
+        "ratio": 1.0,
+        "volume": 20
+      },
+      "short": {
+        "strike": 790.0,
+        "bid": 0.0,
+        "mid": 0.01,
+        "ask": 0.02,
+        "ratio": 1.0,
+        "volume": 1
+      },
+      "net_credit": 0.5,
+      "margin": 1000.0,
+      "max_profit": 999.5,
+      "max_loss": 999.5,
+      "roc": 0.0005,
+      "pop": 99.95,
+      "breakeven": 790.005
+    }
+  ],
+  "puts": [
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 5.0,
+        "bid": 0.0,
+        "mid": 0.055,
+        "ask": 0.11,
+        "ratio": 1.0,
+        "volume": 1
+      },
+      "short": {
+        "strike": 50.0,
+        "bid": 0.0,
+        "mid": 0.005,
+        "ask": 0.01,
+        "ratio": 1.0,
+        "volume": 2
+      },
+      "net_credit": -5.0,
+      "margin": 4500.0,
+      "max_profit": 4495.0,
+      "max_loss": 4505.0,
+      "roc": 0.0011111111111111111,
+      "pop": 99.88888888888889,
+      "breakeven": 49.95
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 50.0,
+        "bid": 0.0,
+        "mid": 0.005,
+        "ask": 0.01,
+        "ratio": 1.0,
+        "volume": 2
+      },
+      "short": {
+        "strike": 145.0,
+        "bid": 0.0,
+        "mid": 0.01,
+        "ask": 0.02,
+        "ratio": 1.0,
+        "volume": 2
+      },
+      "net_credit": 0.5,
+      "margin": 9500.0,
+      "max_profit": 9499.5,
+      "max_loss": 9499.5,
+      "roc": 5.2631578947368424e-05,
+      "pop": 99.99473684210527,
+      "breakeven": 144.995
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 145.0,
+        "bid": 0.0,
+        "mid": 0.01,
+        "ask": 0.02,
+        "ratio": 1.0,
+        "volume": 2
+      },
+      "short": {
+        "strike": 150.0,
+        "bid": 0.0,
+        "mid": 0.12,
+        "ask": 0.24,
+        "ratio": 1.0,
+        "volume": 1
+      },
+      "net_credit": 11.0,
+      "margin": 500.0,
+      "max_profit": 489.0,
+      "max_loss": 489.0,
+      "roc": 0.022,
+      "pop": 97.8,
+      "breakeven": 149.89
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 150.0,
+        "bid": 0.0,
+        "mid": 0.12,
+        "ask": 0.24,
+        "ratio": 1.0,
+        "volume": 1
+      },
+      "short": {
+        "strike": 155.0,
+        "bid": 0.0,
+        "mid": 0.01,
+        "ask": 0.02,
+        "ratio": 1.0,
+        "volume": 2
+      },
+      "net_credit": -11.0,
+      "margin": 500.0,
+      "max_profit": 489.0,
+      "max_loss": 511.0,
+      "roc": 0.022,
+      "pop": 97.8,
+      "breakeven": 154.89
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 155.0,
+        "bid": 0.0,
+        "mid": 0.01,
+        "ask": 0.02,
+        "ratio": 1.0,
+        "volume": 2
+      },
+      "short": {
+        "strike": 160.0,
+        "bid": 0.0,
+        "mid": 0.01,
+        "ask": 0.02,
+        "ratio": 1.0,
+        "volume": 29
+      },
+      "net_credit": 0.0,
+      "margin": 500.0,
+      "max_profit": 500.0,
+      "max_loss": 500.0,
+      "roc": 0.0,
+      "pop": 100.0,
+      "breakeven": 160.0
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 160.0,
+        "bid": 0.0,
+        "mid": 0.01,
+        "ask": 0.02,
+        "ratio": 1.0,
+        "volume": 29
+      },
+      "short": {
+        "strike": 165.0,
+        "bid": 0.0,
+        "mid": 0.01,
+        "ask": 0.02,
+        "ratio": 1.0,
+        "volume": 1
+      },
+      "net_credit": 0.0,
+      "margin": 500.0,
+      "max_profit": 500.0,
+      "max_loss": 500.0,
+      "roc": 0.0,
+      "pop": 100.0,
+      "breakeven": 165.0
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 165.0,
+        "bid": 0.0,
+        "mid": 0.01,
+        "ask": 0.02,
+        "ratio": 1.0,
+        "volume": 1
+      },
+      "short": {
+        "strike": 170.0,
+        "bid": 0.0,
+        "mid": 0.015,
+        "ask": 0.03,
+        "ratio": 1.0,
+        "volume": 1
+      },
+      "net_credit": 0.49999999999999994,
+      "margin": 500.0,
+      "max_profit": 499.5,
+      "max_loss": 499.5,
+      "roc": 0.0009999999999999998,
+      "pop": 99.9,
+      "breakeven": 169.995
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 170.0,
+        "bid": 0.0,
+        "mid": 0.015,
+        "ask": 0.03,
+        "ratio": 1.0,
+        "volume": 1
+      },
+      "short": {
+        "strike": 175.0,
+        "bid": 0.0,
+        "mid": 0.015,
+        "ask": 0.03,
+        "ratio": 1.0,
+        "volume": 27
+      },
+      "net_credit": 0.0,
+      "margin": 500.0,
+      "max_profit": 500.0,
+      "max_loss": 500.0,
+      "roc": 0.0,
+      "pop": 100.0,
+      "breakeven": 175.0
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 175.0,
+        "bid": 0.0,
+        "mid": 0.015,
+        "ask": 0.03,
+        "ratio": 1.0,
+        "volume": 27
+      },
+      "short": {
+        "strike": 180.0,
+        "bid": 0.0,
+        "mid": 0.015,
+        "ask": 0.03,
+        "ratio": 1.0,
+        "volume": 50
+      },
+      "net_credit": 0.0,
+      "margin": 500.0,
+      "max_profit": 500.0,
+      "max_loss": 500.0,
+      "roc": 0.0,
+      "pop": 100.0,
+      "breakeven": 180.0
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 180.0,
+        "bid": 0.0,
+        "mid": 0.015,
+        "ask": 0.03,
+        "ratio": 1.0,
+        "volume": 50
+      },
+      "short": {
+        "strike": 185.0,
+        "bid": 0.0,
+        "mid": 0.02,
+        "ask": 0.04,
+        "ratio": 1.0,
+        "volume": 1
+      },
+      "net_credit": 0.5000000000000001,
+      "margin": 500.0,
+      "max_profit": 499.5,
+      "max_loss": 499.5,
+      "roc": 0.0010000000000000002,
+      "pop": 99.9,
+      "breakeven": 184.995
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 185.0,
+        "bid": 0.0,
+        "mid": 0.02,
+        "ask": 0.04,
+        "ratio": 1.0,
+        "volume": 1
+      },
+      "short": {
+        "strike": 190.0,
+        "bid": 0.0,
+        "mid": 0.01,
+        "ask": 0.02,
+        "ratio": 1.0,
+        "volume": 1
+      },
+      "net_credit": -1.0,
+      "margin": 500.0,
+      "max_profit": 499.0,
+      "max_loss": 501.0,
+      "roc": 0.002,
+      "pop": 99.8,
+      "breakeven": 189.99
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 190.0,
+        "bid": 0.0,
+        "mid": 0.01,
+        "ask": 0.02,
+        "ratio": 1.0,
+        "volume": 1
+      },
+      "short": {
+        "strike": 195.0,
+        "bid": 0.0,
+        "mid": 0.01,
+        "ask": 0.02,
+        "ratio": 1.0,
+        "volume": 1
+      },
+      "net_credit": 0.0,
+      "margin": 500.0,
+      "max_profit": 500.0,
+      "max_loss": 500.0,
+      "roc": 0.0,
+      "pop": 100.0,
+      "breakeven": 195.0
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 195.0,
+        "bid": 0.0,
+        "mid": 0.01,
+        "ask": 0.02,
+        "ratio": 1.0,
+        "volume": 1
+      },
+      "short": {
+        "strike": 200.0,
+        "bid": 0.0,
+        "mid": 0.015,
+        "ask": 0.03,
+        "ratio": 1.0,
+        "volume": 1
+      },
+      "net_credit": 0.49999999999999994,
+      "margin": 500.0,
+      "max_profit": 499.5,
+      "max_loss": 499.5,
+      "roc": 0.0009999999999999998,
+      "pop": 99.9,
+      "breakeven": 199.995
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 200.0,
+        "bid": 0.0,
+        "mid": 0.015,
+        "ask": 0.03,
+        "ratio": 1.0,
+        "volume": 1
+      },
+      "short": {
+        "strike": 205.0,
+        "bid": 0.0,
+        "mid": 0.01,
+        "ask": 0.02,
+        "ratio": 1.0,
+        "volume": 2
+      },
+      "net_credit": -0.49999999999999994,
+      "margin": 500.0,
+      "max_profit": 499.5,
+      "max_loss": 500.5,
+      "roc": 0.0009999999999999998,
+      "pop": 99.9,
+      "breakeven": 204.995
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 205.0,
+        "bid": 0.0,
+        "mid": 0.01,
+        "ask": 0.02,
+        "ratio": 1.0,
+        "volume": 2
+      },
+      "short": {
+        "strike": 210.0,
+        "bid": 0.0,
+        "mid": 0.01,
+        "ask": 0.02,
+        "ratio": 1.0,
+        "volume": 3
+      },
+      "net_credit": 0.0,
+      "margin": 500.0,
+      "max_profit": 500.0,
+      "max_loss": 500.0,
+      "roc": 0.0,
+      "pop": 100.0,
+      "breakeven": 210.0
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 210.0,
+        "bid": 0.0,
+        "mid": 0.01,
+        "ask": 0.02,
+        "ratio": 1.0,
+        "volume": 3
+      },
+      "short": {
+        "strike": 215.0,
+        "bid": 0.0,
+        "mid": 0.015,
+        "ask": 0.03,
+        "ratio": 1.0,
+        "volume": 1
+      },
+      "net_credit": 0.49999999999999994,
+      "margin": 500.0,
+      "max_profit": 499.5,
+      "max_loss": 499.5,
+      "roc": 0.0009999999999999998,
+      "pop": 99.9,
+      "breakeven": 214.995
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 215.0,
+        "bid": 0.0,
+        "mid": 0.015,
+        "ask": 0.03,
+        "ratio": 1.0,
+        "volume": 1
+      },
+      "short": {
+        "strike": 220.0,
+        "bid": 0.0,
+        "mid": 0.015,
+        "ask": 0.03,
+        "ratio": 1.0,
+        "volume": 1
+      },
+      "net_credit": 0.0,
+      "margin": 500.0,
+      "max_profit": 500.0,
+      "max_loss": 500.0,
+      "roc": 0.0,
+      "pop": 100.0,
+      "breakeven": 220.0
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 220.0,
+        "bid": 0.0,
+        "mid": 0.015,
+        "ask": 0.03,
+        "ratio": 1.0,
+        "volume": 1
+      },
+      "short": {
+        "strike": 225.0,
+        "bid": 0.0,
+        "mid": 0.015,
+        "ask": 0.03,
+        "ratio": 1.0,
+        "volume": 1
+      },
+      "net_credit": 0.0,
+      "margin": 500.0,
+      "max_profit": 500.0,
+      "max_loss": 500.0,
+      "roc": 0.0,
+      "pop": 100.0,
+      "breakeven": 225.0
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 225.0,
+        "bid": 0.0,
+        "mid": 0.015,
+        "ask": 0.03,
+        "ratio": 1.0,
+        "volume": 1
+      },
+      "short": {
+        "strike": 230.0,
+        "bid": 0.0,
+        "mid": 0.005,
+        "ask": 0.01,
+        "ratio": 1.0,
+        "volume": 116
+      },
+      "net_credit": -0.9999999999999999,
+      "margin": 500.0,
+      "max_profit": 499.0,
+      "max_loss": 501.0,
+      "roc": 0.0019999999999999996,
+      "pop": 99.8,
+      "breakeven": 229.99
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 230.0,
+        "bid": 0.0,
+        "mid": 0.005,
+        "ask": 0.01,
+        "ratio": 1.0,
+        "volume": 116
+      },
+      "short": {
+        "strike": 235.0,
+        "bid": 0.0,
+        "mid": 0.015,
+        "ask": 0.03,
+        "ratio": 1.0,
+        "volume": 2
+      },
+      "net_credit": 0.9999999999999999,
+      "margin": 500.0,
+      "max_profit": 499.0,
+      "max_loss": 499.0,
+      "roc": 0.0019999999999999996,
+      "pop": 99.8,
+      "breakeven": 234.99
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 235.0,
+        "bid": 0.0,
+        "mid": 0.015,
+        "ask": 0.03,
+        "ratio": 1.0,
+        "volume": 2
+      },
+      "short": {
+        "strike": 240.0,
+        "bid": 0.0,
+        "mid": 0.015,
+        "ask": 0.03,
+        "ratio": 1.0,
+        "volume": 1
+      },
+      "net_credit": 0.0,
+      "margin": 500.0,
+      "max_profit": 500.0,
+      "max_loss": 500.0,
+      "roc": 0.0,
+      "pop": 100.0,
+      "breakeven": 240.0
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 240.0,
+        "bid": 0.0,
+        "mid": 0.015,
+        "ask": 0.03,
+        "ratio": 1.0,
+        "volume": 1
+      },
+      "short": {
+        "strike": 245.0,
+        "bid": 0.0,
+        "mid": 0.01,
+        "ask": 0.02,
+        "ratio": 1.0,
+        "volume": 1
+      },
+      "net_credit": -0.49999999999999994,
+      "margin": 500.0,
+      "max_profit": 499.5,
+      "max_loss": 500.5,
+      "roc": 0.0009999999999999998,
+      "pop": 99.9,
+      "breakeven": 244.995
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 245.0,
+        "bid": 0.0,
+        "mid": 0.01,
+        "ask": 0.02,
+        "ratio": 1.0,
+        "volume": 1
+      },
+      "short": {
+        "strike": 250.0,
+        "bid": 0.0,
+        "mid": 0.01,
+        "ask": 0.02,
+        "ratio": 1.0,
+        "volume": 1570
+      },
+      "net_credit": 0.0,
+      "margin": 500.0,
+      "max_profit": 500.0,
+      "max_loss": 500.0,
+      "roc": 0.0,
+      "pop": 100.0,
+      "breakeven": 250.0
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 250.0,
+        "bid": 0.0,
+        "mid": 0.01,
+        "ask": 0.02,
+        "ratio": 1.0,
+        "volume": 1570
+      },
+      "short": {
+        "strike": 255.0,
+        "bid": 0.0,
+        "mid": 0.01,
+        "ask": 0.02,
+        "ratio": 1.0,
+        "volume": 160
+      },
+      "net_credit": 0.0,
+      "margin": 500.0,
+      "max_profit": 500.0,
+      "max_loss": 500.0,
+      "roc": 0.0,
+      "pop": 100.0,
+      "breakeven": 255.0
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 255.0,
+        "bid": 0.0,
+        "mid": 0.01,
+        "ask": 0.02,
+        "ratio": 1.0,
+        "volume": 160
+      },
+      "short": {
+        "strike": 260.0,
+        "bid": 0.0,
+        "mid": 0.01,
+        "ask": 0.02,
+        "ratio": 1.0,
+        "volume": 2
+      },
+      "net_credit": 0.0,
+      "margin": 500.0,
+      "max_profit": 500.0,
+      "max_loss": 500.0,
+      "roc": 0.0,
+      "pop": 100.0,
+      "breakeven": 260.0
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 260.0,
+        "bid": 0.0,
+        "mid": 0.01,
+        "ask": 0.02,
+        "ratio": 1.0,
+        "volume": 2
+      },
+      "short": {
+        "strike": 265.0,
+        "bid": 0.0,
+        "mid": 0.015,
+        "ask": 0.03,
+        "ratio": 1.0,
+        "volume": 1
+      },
+      "net_credit": 0.49999999999999994,
+      "margin": 500.0,
+      "max_profit": 499.5,
+      "max_loss": 499.5,
+      "roc": 0.0009999999999999998,
+      "pop": 99.9,
+      "breakeven": 264.995
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 265.0,
+        "bid": 0.0,
+        "mid": 0.015,
+        "ask": 0.03,
+        "ratio": 1.0,
+        "volume": 1
+      },
+      "short": {
+        "strike": 270.0,
+        "bid": 0.0,
+        "mid": 0.015,
+        "ask": 0.03,
+        "ratio": 1.0,
+        "volume": 1
+      },
+      "net_credit": 0.0,
+      "margin": 500.0,
+      "max_profit": 500.0,
+      "max_loss": 500.0,
+      "roc": 0.0,
+      "pop": 100.0,
+      "breakeven": 270.0
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 270.0,
+        "bid": 0.0,
+        "mid": 0.015,
+        "ask": 0.03,
+        "ratio": 1.0,
+        "volume": 1
+      },
+      "short": {
+        "strike": 275.0,
+        "bid": 0.0,
+        "mid": 0.015,
+        "ask": 0.03,
+        "ratio": 1.0,
+        "volume": 2
+      },
+      "net_credit": 0.0,
+      "margin": 500.0,
+      "max_profit": 500.0,
+      "max_loss": 500.0,
+      "roc": 0.0,
+      "pop": 100.0,
+      "breakeven": 275.0
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 275.0,
+        "bid": 0.0,
+        "mid": 0.015,
+        "ask": 0.03,
+        "ratio": 1.0,
+        "volume": 2
+      },
+      "short": {
+        "strike": 280.0,
+        "bid": 0.0,
+        "mid": 0.015,
+        "ask": 0.03,
+        "ratio": 1.0,
+        "volume": 2
+      },
+      "net_credit": 0.0,
+      "margin": 500.0,
+      "max_profit": 500.0,
+      "max_loss": 500.0,
+      "roc": 0.0,
+      "pop": 100.0,
+      "breakeven": 280.0
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 280.0,
+        "bid": 0.0,
+        "mid": 0.015,
+        "ask": 0.03,
+        "ratio": 1.0,
+        "volume": 2
+      },
+      "short": {
+        "strike": 285.0,
+        "bid": 0.0,
+        "mid": 0.015,
+        "ask": 0.03,
+        "ratio": 1.0,
+        "volume": 1
+      },
+      "net_credit": 0.0,
+      "margin": 500.0,
+      "max_profit": 500.0,
+      "max_loss": 500.0,
+      "roc": 0.0,
+      "pop": 100.0,
+      "breakeven": 285.0
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 285.0,
+        "bid": 0.0,
+        "mid": 0.015,
+        "ask": 0.03,
+        "ratio": 1.0,
+        "volume": 1
+      },
+      "short": {
+        "strike": 290.0,
+        "bid": 0.01,
+        "mid": 0.015,
+        "ask": 0.02,
+        "ratio": 0.5,
+        "volume": 4
+      },
+      "net_credit": 0.0,
+      "margin": 500.0,
+      "max_profit": 500.0,
+      "max_loss": 500.0,
+      "roc": 0.0,
+      "pop": 100.0,
+      "breakeven": 290.0
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 290.0,
+        "bid": 0.01,
+        "mid": 0.015,
+        "ask": 0.02,
+        "ratio": 0.5,
+        "volume": 4
+      },
+      "short": {
+        "strike": 295.0,
+        "bid": 0.0,
+        "mid": 0.01,
+        "ask": 0.02,
+        "ratio": 1.0,
+        "volume": 1
+      },
+      "net_credit": -0.49999999999999994,
+      "margin": 500.0,
+      "max_profit": 499.5,
+      "max_loss": 500.5,
+      "roc": 0.0009999999999999998,
+      "pop": 99.9,
+      "breakeven": 294.995
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 295.0,
+        "bid": 0.0,
+        "mid": 0.01,
+        "ask": 0.02,
+        "ratio": 1.0,
+        "volume": 1
+      },
+      "short": {
+        "strike": 300.0,
+        "bid": 0.01,
+        "mid": 0.015,
+        "ask": 0.02,
+        "ratio": 0.5,
+        "volume": 4
+      },
+      "net_credit": 0.49999999999999994,
+      "margin": 500.0,
+      "max_profit": 499.5,
+      "max_loss": 499.5,
+      "roc": 0.0009999999999999998,
+      "pop": 99.9,
+      "breakeven": 299.995
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 300.0,
+        "bid": 0.01,
+        "mid": 0.015,
+        "ask": 0.02,
+        "ratio": 0.5,
+        "volume": 4
+      },
+      "short": {
+        "strike": 305.0,
+        "bid": 0.01,
+        "mid": 0.015,
+        "ask": 0.02,
+        "ratio": 0.5,
+        "volume": 2
+      },
+      "net_credit": 0.0,
+      "margin": 500.0,
+      "max_profit": 500.0,
+      "max_loss": 500.0,
+      "roc": 0.0,
+      "pop": 100.0,
+      "breakeven": 305.0
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 305.0,
+        "bid": 0.01,
+        "mid": 0.015,
+        "ask": 0.02,
+        "ratio": 0.5,
+        "volume": 2
+      },
+      "short": {
+        "strike": 310.0,
+        "bid": 0.01,
+        "mid": 0.015,
+        "ask": 0.02,
+        "ratio": 0.5,
+        "volume": 2
+      },
+      "net_credit": 0.0,
+      "margin": 500.0,
+      "max_profit": 500.0,
+      "max_loss": 500.0,
+      "roc": 0.0,
+      "pop": 100.0,
+      "breakeven": 310.0
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 310.0,
+        "bid": 0.01,
+        "mid": 0.015,
+        "ask": 0.02,
+        "ratio": 0.5,
+        "volume": 2
+      },
+      "short": {
+        "strike": 315.0,
+        "bid": 0.0,
+        "mid": 0.015,
+        "ask": 0.03,
+        "ratio": 1.0,
+        "volume": 66
+      },
+      "net_credit": 0.0,
+      "margin": 500.0,
+      "max_profit": 500.0,
+      "max_loss": 500.0,
+      "roc": 0.0,
+      "pop": 100.0,
+      "breakeven": 315.0
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 315.0,
+        "bid": 0.0,
+        "mid": 0.015,
+        "ask": 0.03,
+        "ratio": 1.0,
+        "volume": 66
+      },
+      "short": {
+        "strike": 320.0,
+        "bid": 0.0,
+        "mid": 0.015,
+        "ask": 0.03,
+        "ratio": 1.0,
+        "volume": 2
+      },
+      "net_credit": 0.0,
+      "margin": 500.0,
+      "max_profit": 500.0,
+      "max_loss": 500.0,
+      "roc": 0.0,
+      "pop": 100.0,
+      "breakeven": 320.0
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 320.0,
+        "bid": 0.0,
+        "mid": 0.015,
+        "ask": 0.03,
+        "ratio": 1.0,
+        "volume": 2
+      },
+      "short": {
+        "strike": 325.0,
+        "bid": 0.0,
+        "mid": 0.01,
+        "ask": 0.02,
+        "ratio": 1.0,
+        "volume": 1
+      },
+      "net_credit": -0.49999999999999994,
+      "margin": 500.0,
+      "max_profit": 499.5,
+      "max_loss": 500.5,
+      "roc": 0.0009999999999999998,
+      "pop": 99.9,
+      "breakeven": 324.995
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 325.0,
+        "bid": 0.0,
+        "mid": 0.01,
+        "ask": 0.02,
+        "ratio": 1.0,
+        "volume": 1
+      },
+      "short": {
+        "strike": 330.0,
+        "bid": 0.0,
+        "mid": 0.01,
+        "ask": 0.02,
+        "ratio": 1.0,
+        "volume": 124
+      },
+      "net_credit": 0.0,
+      "margin": 500.0,
+      "max_profit": 500.0,
+      "max_loss": 500.0,
+      "roc": 0.0,
+      "pop": 100.0,
+      "breakeven": 330.0
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 330.0,
+        "bid": 0.0,
+        "mid": 0.01,
+        "ask": 0.02,
+        "ratio": 1.0,
+        "volume": 124
+      },
+      "short": {
+        "strike": 335.0,
+        "bid": 0.01,
+        "mid": 0.025,
+        "ask": 0.04,
+        "ratio": 0.75,
+        "volume": 105
+      },
+      "net_credit": 1.5000000000000002,
+      "margin": 500.0,
+      "max_profit": 498.5,
+      "max_loss": 498.5,
+      "roc": 0.0030000000000000005,
+      "pop": 99.7,
+      "breakeven": 334.985
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 335.0,
+        "bid": 0.01,
+        "mid": 0.025,
+        "ask": 0.04,
+        "ratio": 0.75,
+        "volume": 105
+      },
+      "short": {
+        "strike": 340.0,
+        "bid": 0.01,
+        "mid": 0.030000000000000002,
+        "ask": 0.05,
+        "ratio": 0.7999999999999999,
+        "volume": 15
+      },
+      "net_credit": 0.5000000000000001,
+      "margin": 500.0,
+      "max_profit": 499.5,
+      "max_loss": 499.5,
+      "roc": 0.0010000000000000002,
+      "pop": 99.9,
+      "breakeven": 339.995
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 340.0,
+        "bid": 0.01,
+        "mid": 0.030000000000000002,
+        "ask": 0.05,
+        "ratio": 0.7999999999999999,
+        "volume": 15
+      },
+      "short": {
+        "strike": 345.0,
+        "bid": 0.01,
+        "mid": 0.030000000000000002,
+        "ask": 0.05,
+        "ratio": 0.7999999999999999,
+        "volume": 10
+      },
+      "net_credit": 0.0,
+      "margin": 500.0,
+      "max_profit": 500.0,
+      "max_loss": 500.0,
+      "roc": 0.0,
+      "pop": 100.0,
+      "breakeven": 345.0
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 345.0,
+        "bid": 0.01,
+        "mid": 0.030000000000000002,
+        "ask": 0.05,
+        "ratio": 0.7999999999999999,
+        "volume": 10
+      },
+      "short": {
+        "strike": 350.0,
+        "bid": 0.02,
+        "mid": 0.04,
+        "ask": 0.06,
+        "ratio": 0.6666666666666666,
+        "volume": 10
+      },
+      "net_credit": 0.9999999999999999,
+      "margin": 500.0,
+      "max_profit": 499.0,
+      "max_loss": 499.0,
+      "roc": 0.0019999999999999996,
+      "pop": 99.8,
+      "breakeven": 349.99
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 350.0,
+        "bid": 0.02,
+        "mid": 0.04,
+        "ask": 0.06,
+        "ratio": 0.6666666666666666,
+        "volume": 10
+      },
+      "short": {
+        "strike": 355.0,
+        "bid": 0.02,
+        "mid": 0.04,
+        "ask": 0.06,
+        "ratio": 0.6666666666666666,
+        "volume": 54
+      },
+      "net_credit": 0.0,
+      "margin": 500.0,
+      "max_profit": 500.0,
+      "max_loss": 500.0,
+      "roc": 0.0,
+      "pop": 100.0,
+      "breakeven": 355.0
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 355.0,
+        "bid": 0.02,
+        "mid": 0.04,
+        "ask": 0.06,
+        "ratio": 0.6666666666666666,
+        "volume": 54
+      },
+      "short": {
+        "strike": 360.0,
+        "bid": 0.03,
+        "mid": 0.05,
+        "ask": 0.07,
+        "ratio": 0.5714285714285715,
+        "volume": 189
+      },
+      "net_credit": 1.0000000000000002,
+      "margin": 500.0,
+      "max_profit": 499.0,
+      "max_loss": 499.0,
+      "roc": 0.0020000000000000005,
+      "pop": 99.8,
+      "breakeven": 359.99
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 360.0,
+        "bid": 0.03,
+        "mid": 0.05,
+        "ask": 0.07,
+        "ratio": 0.5714285714285715,
+        "volume": 189
+      },
+      "short": {
+        "strike": 365.0,
+        "bid": 0.04,
+        "mid": 0.05500000000000001,
+        "ask": 0.07,
+        "ratio": 0.4285714285714286,
+        "volume": 9
+      },
+      "net_credit": 0.5000000000000004,
+      "margin": 500.0,
+      "max_profit": 499.5,
+      "max_loss": 499.5,
+      "roc": 0.0010000000000000009,
+      "pop": 99.9,
+      "breakeven": 364.995
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 365.0,
+        "bid": 0.04,
+        "mid": 0.05500000000000001,
+        "ask": 0.07,
+        "ratio": 0.4285714285714286,
+        "volume": 9
+      },
+      "short": {
+        "strike": 370.0,
+        "bid": 0.05,
+        "mid": 0.065,
+        "ask": 0.08,
+        "ratio": 0.375,
+        "volume": 2
+      },
+      "net_credit": 0.9999999999999996,
+      "margin": 500.0,
+      "max_profit": 499.0,
+      "max_loss": 499.0,
+      "roc": 0.001999999999999999,
+      "pop": 99.8,
+      "breakeven": 369.99
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 370.0,
+        "bid": 0.05,
+        "mid": 0.065,
+        "ask": 0.08,
+        "ratio": 0.375,
+        "volume": 2
+      },
+      "short": {
+        "strike": 375.0,
+        "bid": 0.06,
+        "mid": 0.075,
+        "ask": 0.09,
+        "ratio": 0.3333333333333333,
+        "volume": 242
+      },
+      "net_credit": 0.9999999999999996,
+      "margin": 500.0,
+      "max_profit": 499.0,
+      "max_loss": 499.0,
+      "roc": 0.001999999999999999,
+      "pop": 99.8,
+      "breakeven": 374.99
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 375.0,
+        "bid": 0.06,
+        "mid": 0.075,
+        "ask": 0.09,
+        "ratio": 0.3333333333333333,
+        "volume": 242
+      },
+      "short": {
+        "strike": 380.0,
+        "bid": 0.07,
+        "mid": 0.085,
+        "ask": 0.1,
+        "ratio": 0.3,
+        "volume": 25
+      },
+      "net_credit": 1.0000000000000009,
+      "margin": 500.0,
+      "max_profit": 499.0,
+      "max_loss": 499.0,
+      "roc": 0.0020000000000000018,
+      "pop": 99.8,
+      "breakeven": 379.99
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 380.0,
+        "bid": 0.07,
+        "mid": 0.085,
+        "ask": 0.1,
+        "ratio": 0.3,
+        "volume": 25
+      },
+      "short": {
+        "strike": 385.0,
+        "bid": 0.08,
+        "mid": 0.1,
+        "ask": 0.12,
+        "ratio": 0.3333333333333333,
+        "volume": 33
+      },
+      "net_credit": 1.5,
+      "margin": 500.0,
+      "max_profit": 498.5,
+      "max_loss": 498.5,
+      "roc": 0.003,
+      "pop": 99.7,
+      "breakeven": 384.985
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 385.0,
+        "bid": 0.08,
+        "mid": 0.1,
+        "ask": 0.12,
+        "ratio": 0.3333333333333333,
+        "volume": 33
+      },
+      "short": {
+        "strike": 390.0,
+        "bid": 0.09,
+        "mid": 0.11,
+        "ask": 0.13,
+        "ratio": 0.30769230769230776,
+        "volume": 9
+      },
+      "net_credit": 0.9999999999999996,
+      "margin": 500.0,
+      "max_profit": 499.0,
+      "max_loss": 499.0,
+      "roc": 0.001999999999999999,
+      "pop": 99.8,
+      "breakeven": 389.99
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 390.0,
+        "bid": 0.09,
+        "mid": 0.11,
+        "ask": 0.13,
+        "ratio": 0.30769230769230776,
+        "volume": 9
+      },
+      "short": {
+        "strike": 395.0,
+        "bid": 0.11,
+        "mid": 0.125,
+        "ask": 0.14,
+        "ratio": 0.21428571428571436,
+        "volume": 43
+      },
+      "net_credit": 1.5,
+      "margin": 500.0,
+      "max_profit": 498.5,
+      "max_loss": 498.5,
+      "roc": 0.003,
+      "pop": 99.7,
+      "breakeven": 394.985
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 395.0,
+        "bid": 0.11,
+        "mid": 0.125,
+        "ask": 0.14,
+        "ratio": 0.21428571428571436,
+        "volume": 43
+      },
+      "short": {
+        "strike": 400.0,
+        "bid": 0.12,
+        "mid": 0.14,
+        "ask": 0.16,
+        "ratio": 0.25000000000000006,
+        "volume": 1700
+      },
+      "net_credit": 1.5000000000000013,
+      "margin": 500.0,
+      "max_profit": 498.5,
+      "max_loss": 498.5,
+      "roc": 0.0030000000000000027,
+      "pop": 99.7,
+      "breakeven": 399.985
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 400.0,
+        "bid": 0.12,
+        "mid": 0.14,
+        "ask": 0.16,
+        "ratio": 0.25000000000000006,
+        "volume": 1700
+      },
+      "short": {
+        "strike": 405.0,
+        "bid": 0.14,
+        "mid": 0.16,
+        "ask": 0.18,
+        "ratio": 0.22222222222222213,
+        "volume": 106
+      },
+      "net_credit": 1.9999999999999991,
+      "margin": 500.0,
+      "max_profit": 498.0,
+      "max_loss": 498.0,
+      "roc": 0.003999999999999998,
+      "pop": 99.6,
+      "breakeven": 404.98
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 405.0,
+        "bid": 0.14,
+        "mid": 0.16,
+        "ask": 0.18,
+        "ratio": 0.22222222222222213,
+        "volume": 106
+      },
+      "short": {
+        "strike": 410.0,
+        "bid": 0.16,
+        "mid": 0.18,
+        "ask": 0.2,
+        "ratio": 0.20000000000000004,
+        "volume": 113
+      },
+      "net_credit": 1.9999999999999991,
+      "margin": 500.0,
+      "max_profit": 498.0,
+      "max_loss": 498.0,
+      "roc": 0.003999999999999998,
+      "pop": 99.6,
+      "breakeven": 409.98
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 410.0,
+        "bid": 0.16,
+        "mid": 0.18,
+        "ask": 0.2,
+        "ratio": 0.20000000000000004,
+        "volume": 113
+      },
+      "short": {
+        "strike": 415.0,
+        "bid": 0.19,
+        "mid": 0.20500000000000002,
+        "ask": 0.22,
+        "ratio": 0.13636363636363635,
+        "volume": 109
+      },
+      "net_credit": 2.500000000000002,
+      "margin": 500.0,
+      "max_profit": 497.5,
+      "max_loss": 497.5,
+      "roc": 0.0050000000000000044,
+      "pop": 99.5,
+      "breakeven": 414.975
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 415.0,
+        "bid": 0.19,
+        "mid": 0.20500000000000002,
+        "ask": 0.22,
+        "ratio": 0.13636363636363635,
+        "volume": 109
+      },
+      "short": {
+        "strike": 420.0,
+        "bid": 0.22,
+        "mid": 0.235,
+        "ask": 0.25,
+        "ratio": 0.12,
+        "volume": 2642
+      },
+      "net_credit": 2.9999999999999973,
+      "margin": 500.0,
+      "max_profit": 497.0,
+      "max_loss": 497.0,
+      "roc": 0.005999999999999995,
+      "pop": 99.4,
+      "breakeven": 419.97
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 420.0,
+        "bid": 0.22,
+        "mid": 0.235,
+        "ask": 0.25,
+        "ratio": 0.12,
+        "volume": 2642
+      },
+      "short": {
+        "strike": 425.0,
+        "bid": 0.25,
+        "mid": 0.27,
+        "ask": 0.29,
+        "ratio": 0.13793103448275856,
+        "volume": 112
+      },
+      "net_credit": 3.500000000000003,
+      "margin": 500.0,
+      "max_profit": 496.5,
+      "max_loss": 496.5,
+      "roc": 0.007000000000000006,
+      "pop": 99.3,
+      "breakeven": 424.965
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 425.0,
+        "bid": 0.25,
+        "mid": 0.27,
+        "ask": 0.29,
+        "ratio": 0.13793103448275856,
+        "volume": 112
+      },
+      "short": {
+        "strike": 430.0,
+        "bid": 0.29,
+        "mid": 0.31,
+        "ask": 0.33,
+        "ratio": 0.12121212121212131,
+        "volume": 365
+      },
+      "net_credit": 3.9999999999999982,
+      "margin": 500.0,
+      "max_profit": 496.0,
+      "max_loss": 496.0,
+      "roc": 0.007999999999999997,
+      "pop": 99.2,
+      "breakeven": 429.96
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 430.0,
+        "bid": 0.29,
+        "mid": 0.31,
+        "ask": 0.33,
+        "ratio": 0.12121212121212131,
+        "volume": 365
+      },
+      "short": {
+        "strike": 435.0,
+        "bid": 0.35,
+        "mid": 0.36,
+        "ask": 0.37,
+        "ratio": 0.054054054054054106,
+        "volume": 127
+      },
+      "net_credit": 4.999999999999999,
+      "margin": 500.0,
+      "max_profit": 495.0,
+      "max_loss": 495.0,
+      "roc": 0.009999999999999998,
+      "pop": 99.0,
+      "breakeven": 434.95
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 435.0,
+        "bid": 0.35,
+        "mid": 0.36,
+        "ask": 0.37,
+        "ratio": 0.054054054054054106,
+        "volume": 127
+      },
+      "short": {
+        "strike": 440.0,
+        "bid": 0.42,
+        "mid": 0.44,
+        "ask": 0.46,
+        "ratio": 0.0869565217391305,
+        "volume": 508
+      },
+      "net_credit": 8.000000000000002,
+      "margin": 500.0,
+      "max_profit": 492.0,
+      "max_loss": 492.0,
+      "roc": 0.016000000000000004,
+      "pop": 98.4,
+      "breakeven": 439.92
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 440.0,
+        "bid": 0.42,
+        "mid": 0.44,
+        "ask": 0.46,
+        "ratio": 0.0869565217391305,
+        "volume": 508
+      },
+      "short": {
+        "strike": 445.0,
+        "bid": 0.51,
+        "mid": 0.54,
+        "ask": 0.57,
+        "ratio": 0.10526315789473675,
+        "volume": 180
+      },
+      "net_credit": 10.000000000000004,
+      "margin": 500.0,
+      "max_profit": 490.0,
+      "max_loss": 490.0,
+      "roc": 0.020000000000000007,
+      "pop": 98.0,
+      "breakeven": 444.9
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 445.0,
+        "bid": 0.51,
+        "mid": 0.54,
+        "ask": 0.57,
+        "ratio": 0.10526315789473675,
+        "volume": 180
+      },
+      "short": {
+        "strike": 450.0,
+        "bid": 0.63,
+        "mid": 0.6599999999999999,
+        "ask": 0.69,
+        "ratio": 0.08695652173913036,
+        "volume": 1166
+      },
+      "net_credit": 11.99999999999999,
+      "margin": 500.0,
+      "max_profit": 488.0,
+      "max_loss": 488.0,
+      "roc": 0.02399999999999998,
+      "pop": 97.60000000000001,
+      "breakeven": 449.88
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 450.0,
+        "bid": 0.63,
+        "mid": 0.6599999999999999,
+        "ask": 0.69,
+        "ratio": 0.08695652173913036,
+        "volume": 1166
+      },
+      "short": {
+        "strike": 455.0,
+        "bid": 0.79,
+        "mid": 0.825,
+        "ask": 0.86,
+        "ratio": 0.08139534883720925,
+        "volume": 340
+      },
+      "net_credit": 16.500000000000004,
+      "margin": 500.0,
+      "max_profit": 483.5,
+      "max_loss": 483.5,
+      "roc": 0.03300000000000001,
+      "pop": 96.7,
+      "breakeven": 454.835
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 455.0,
+        "bid": 0.79,
+        "mid": 0.825,
+        "ask": 0.86,
+        "ratio": 0.08139534883720925,
+        "volume": 340
+      },
+      "short": {
+        "strike": 460.0,
+        "bid": 1.01,
+        "mid": 1.045,
+        "ask": 1.08,
+        "ratio": 0.06481481481481487,
+        "volume": 677
+      },
+      "net_credit": 21.999999999999996,
+      "margin": 500.0,
+      "max_profit": 478.0,
+      "max_loss": 478.0,
+      "roc": 0.04399999999999999,
+      "pop": 95.6,
+      "breakeven": 459.78
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 460.0,
+        "bid": 1.01,
+        "mid": 1.045,
+        "ask": 1.08,
+        "ratio": 0.06481481481481487,
+        "volume": 677
+      },
+      "short": {
+        "strike": 465.0,
+        "bid": 1.27,
+        "mid": 1.33,
+        "ask": 1.39,
+        "ratio": 0.08633093525179848,
+        "volume": 1083
+      },
+      "net_credit": 28.500000000000014,
+      "margin": 500.0,
+      "max_profit": 471.5,
+      "max_loss": 471.5,
+      "roc": 0.05700000000000003,
+      "pop": 94.3,
+      "breakeven": 464.715
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 465.0,
+        "bid": 1.27,
+        "mid": 1.33,
+        "ask": 1.39,
+        "ratio": 0.08633093525179848,
+        "volume": 1083
+      },
+      "short": {
+        "strike": 470.0,
+        "bid": 1.7,
+        "mid": 1.745,
+        "ask": 1.79,
+        "ratio": 0.05027932960893859,
+        "volume": 1642
+      },
+      "net_credit": 41.5,
+      "margin": 500.0,
+      "max_profit": 458.5,
+      "max_loss": 458.5,
+      "roc": 0.083,
+      "pop": 91.7,
+      "breakeven": 469.585
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 470.0,
+        "bid": 1.7,
+        "mid": 1.745,
+        "ask": 1.79,
+        "ratio": 0.05027932960893859,
+        "volume": 1642
+      },
+      "short": {
+        "strike": 475.0,
+        "bid": 2.19,
+        "mid": 2.275,
+        "ask": 2.36,
+        "ratio": 0.07203389830508472,
+        "volume": 939
+      },
+      "net_credit": 52.99999999999998,
+      "margin": 500.0,
+      "max_profit": 447.0,
+      "max_loss": 447.0,
+      "roc": 0.10599999999999996,
+      "pop": 89.4,
+      "breakeven": 474.47
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 475.0,
+        "bid": 2.19,
+        "mid": 2.275,
+        "ask": 2.36,
+        "ratio": 0.07203389830508472,
+        "volume": 939
+      },
+      "short": {
+        "strike": 480.0,
+        "bid": 2.87,
+        "mid": 2.9850000000000003,
+        "ask": 3.1,
+        "ratio": 0.07419354838709677,
+        "volume": 1973
+      },
+      "net_credit": 71.00000000000004,
+      "margin": 500.0,
+      "max_profit": 428.99999999999994,
+      "max_loss": 428.99999999999994,
+      "roc": 0.1420000000000001,
+      "pop": 85.8,
+      "breakeven": 479.29
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 480.0,
+        "bid": 2.87,
+        "mid": 2.9850000000000003,
+        "ask": 3.1,
+        "ratio": 0.07419354838709677,
+        "volume": 1973
+      },
+      "short": {
+        "strike": 482.5,
+        "bid": 3.25,
+        "mid": 3.35,
+        "ask": 3.45,
+        "ratio": 0.05797101449275367,
+        "volume": 465
+      },
+      "net_credit": 36.49999999999998,
+      "margin": 250.0,
+      "max_profit": 213.50000000000003,
+      "max_loss": 213.50000000000003,
+      "roc": 0.1459999999999999,
+      "pop": 85.4,
+      "breakeven": 482.135
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 482.5,
+        "bid": 3.25,
+        "mid": 3.35,
+        "ask": 3.45,
+        "ratio": 0.05797101449275367,
+        "volume": 465
+      },
+      "short": {
+        "strike": 485.0,
+        "bid": 3.7,
+        "mid": 3.825,
+        "ask": 3.95,
+        "ratio": 0.06329113924050632,
+        "volume": 1836
+      },
+      "net_credit": 47.50000000000001,
+      "margin": 250.0,
+      "max_profit": 202.5,
+      "max_loss": 202.5,
+      "roc": 0.19000000000000003,
+      "pop": 81.0,
+      "breakeven": 484.525
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 485.0,
+        "bid": 3.7,
+        "mid": 3.825,
+        "ask": 3.95,
+        "ratio": 0.06329113924050632,
+        "volume": 1836
+      },
+      "short": {
+        "strike": 487.5,
+        "bid": 4.25,
+        "mid": 4.375,
+        "ask": 4.5,
+        "ratio": 0.05555555555555555,
+        "volume": 318
+      },
+      "net_credit": 54.999999999999986,
+      "margin": 250.0,
+      "max_profit": 195.0,
+      "max_loss": 195.0,
+      "roc": 0.21999999999999995,
+      "pop": 78.0,
+      "breakeven": 486.95
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 487.5,
+        "bid": 4.25,
+        "mid": 4.375,
+        "ask": 4.5,
+        "ratio": 0.05555555555555555,
+        "volume": 318
+      },
+      "short": {
+        "strike": 490.0,
+        "bid": 4.8,
+        "mid": 4.9,
+        "ask": 5.0,
+        "ratio": 0.040000000000000036,
+        "volume": 997
+      },
+      "net_credit": 52.500000000000036,
+      "margin": 250.0,
+      "max_profit": 197.49999999999997,
+      "max_loss": 197.49999999999997,
+      "roc": 0.21000000000000013,
+      "pop": 78.99999999999999,
+      "breakeven": 489.475
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 490.0,
+        "bid": 4.8,
+        "mid": 4.9,
+        "ask": 5.0,
+        "ratio": 0.040000000000000036,
+        "volume": 997
+      },
+      "short": {
+        "strike": 492.5,
+        "bid": 5.45,
+        "mid": 5.575,
+        "ask": 5.7,
+        "ratio": 0.043859649122807015,
+        "volume": 983
+      },
+      "net_credit": 67.49999999999999,
+      "margin": 250.0,
+      "max_profit": 182.5,
+      "max_loss": 182.5,
+      "roc": 0.26999999999999996,
+      "pop": 73.0,
+      "breakeven": 491.825
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 492.5,
+        "bid": 5.45,
+        "mid": 5.575,
+        "ask": 5.7,
+        "ratio": 0.043859649122807015,
+        "volume": 983
+      },
+      "short": {
+        "strike": 495.0,
+        "bid": 6.2,
+        "mid": 6.300000000000001,
+        "ask": 6.4,
+        "ratio": 0.03125000000000003,
+        "volume": 1021
+      },
+      "net_credit": 72.50000000000006,
+      "margin": 250.0,
+      "max_profit": 177.49999999999994,
+      "max_loss": 177.49999999999994,
+      "roc": 0.2900000000000002,
+      "pop": 70.99999999999997,
+      "breakeven": 494.275
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 495.0,
+        "bid": 6.2,
+        "mid": 6.300000000000001,
+        "ask": 6.4,
+        "ratio": 0.03125000000000003,
+        "volume": 1021
+      },
+      "short": {
+        "strike": 497.5,
+        "bid": 6.95,
+        "mid": 7.075,
+        "ask": 7.2,
+        "ratio": 0.034722222222222224,
+        "volume": 611
+      },
+      "net_credit": 77.49999999999994,
+      "margin": 250.0,
+      "max_profit": 172.50000000000006,
+      "max_loss": 172.50000000000006,
+      "roc": 0.3099999999999998,
+      "pop": 69.00000000000003,
+      "breakeven": 496.725
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 497.5,
+        "bid": 6.95,
+        "mid": 7.075,
+        "ask": 7.2,
+        "ratio": 0.034722222222222224,
+        "volume": 611
+      },
+      "short": {
+        "strike": 500.0,
+        "bid": 7.8,
+        "mid": 7.9,
+        "ask": 8.0,
+        "ratio": 0.025000000000000022,
+        "volume": 5920
+      },
+      "net_credit": 82.50000000000001,
+      "margin": 250.0,
+      "max_profit": 167.5,
+      "max_loss": 167.5,
+      "roc": 0.33000000000000007,
+      "pop": 67.0,
+      "breakeven": 499.175
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 500.0,
+        "bid": 7.8,
+        "mid": 7.9,
+        "ask": 8.0,
+        "ratio": 0.025000000000000022,
+        "volume": 5920
+      },
+      "short": {
+        "strike": 502.5,
+        "bid": 8.7,
+        "mid": 8.85,
+        "ask": 9.0,
+        "ratio": 0.03333333333333341,
+        "volume": 415
+      },
+      "net_credit": 94.99999999999993,
+      "margin": 250.0,
+      "max_profit": 155.00000000000006,
+      "max_loss": 155.00000000000006,
+      "roc": 0.3799999999999997,
+      "pop": 62.00000000000003,
+      "breakeven": 501.55
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 502.5,
+        "bid": 8.7,
+        "mid": 8.85,
+        "ask": 9.0,
+        "ratio": 0.03333333333333341,
+        "volume": 415
+      },
+      "short": {
+        "strike": 505.0,
+        "bid": 9.7,
+        "mid": 9.825,
+        "ask": 9.95,
+        "ratio": 0.02512562814070352,
+        "volume": 990
+      },
+      "net_credit": 97.49999999999997,
+      "margin": 250.0,
+      "max_profit": 152.50000000000003,
+      "max_loss": 152.50000000000003,
+      "roc": 0.3899999999999999,
+      "pop": 61.000000000000014,
+      "breakeven": 504.025
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 505.0,
+        "bid": 9.7,
+        "mid": 9.825,
+        "ask": 9.95,
+        "ratio": 0.02512562814070352,
+        "volume": 990
+      },
+      "short": {
+        "strike": 507.5,
+        "bid": 10.85,
+        "mid": 11.0,
+        "ask": 11.15,
+        "ratio": 0.02690582959641262,
+        "volume": 862
+      },
+      "net_credit": 117.50000000000007,
+      "margin": 250.0,
+      "max_profit": 132.49999999999994,
+      "max_loss": 132.49999999999994,
+      "roc": 0.4700000000000003,
+      "pop": 52.99999999999997,
+      "breakeven": 506.325
+    },
+    {
+      "spread_type": "credit",
+      "long": {
+        "strike": 507.5,
+        "bid": 10.85,
+        "mid": 11.0,
+        "ask": 11.15,
+        "ratio": 0.02690582959641262,
+        "volume": 862
+      },
+      "short": {
+        "strike": 510.0,
+        "bid": 12.0,
+        "mid": 12.1,
+        "ask": 12.2,
+        "ratio": 0.01639344262295076,
+        "volume": 3779
+      },
+      "net_credit": 109.99999999999997,
+      "margin": 250.0,
+      "max_profit": 140.00000000000003,
+      "max_loss": 140.00000000000003,
+      "roc": 0.4399999999999999,
+      "pop": 56.000000000000014,
+      "breakeven": 508.9
+    }
+  ]
+}
