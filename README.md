@@ -22,16 +22,16 @@ options:
   --size SIZE           set position size in dollars
 ```
 
-As an example command:
-    Symbol: META
-    Expiration: 2024-04-19
-    Size: 25,000
-    Filter Probability of Profit: > 60%
-    Filter Long Volume: > 200
-    Filter Return on Capital: > 0.07 (raw percent)
-    Filter Long Bid/Ask Ratio: > 0.1 (raw percent)
-    Display Credit Spreads
-    Display Debit Spreads
+As an example command:  
+    Symbol: META  
+    Expiration: 2024-04-19  
+    Size: 25,000  
+    Filter Probability of Profit: > 60%  
+    Filter Long Volume: > 200  
+    Filter Return on Capital: > 0.07 (raw percent)  
+    Filter Long Bid/Ask Ratio: > 0.1 (raw percent)  
+    Display Credit Spreads  
+    Display Debit Spreads  
 ```
 python3 cli.py META --exp=2024-04-19 --size=25000 --credit --pop=60 --volume=200 --roc=0.07 --debit --ratio=0.1
 ```
