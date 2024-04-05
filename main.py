@@ -186,11 +186,14 @@ def get_debit_spread(chain, strike_diff=1):
         output['puts'].append(po)
     return output
 
+now = datetime.datetime.now()
 symbol = args.symbol.upper()
 print(f'-- Symbol : {symbol} --')
 t = yf.Ticker(symbol)
 
 if args.exp:
+    exp = convert_date(args.exp)
+    dte = (exp - now).days
     chain = t.option_chain(args.exp)
     if args.credit:
         print('\n## Credit Spreads ##')
@@ -206,6 +209,7 @@ if args.exp:
             if x['roc'] < args.roc: continue
             size = int(args.size // x['margin'])
             percent_volume = (size / x['long']['volume'])
+            profit_per_day = x['net_credit'] / dte
             msg = (
                 f'[[ L {x["long"]["strike"]} / '
                 f'S {x["short"]["strike"]} ]]\t'
@@ -215,7 +219,7 @@ if args.exp:
                 f'Return: {x["roc"]*100:,.02f}%\t'
                 f'Probability: {x["pop"]:,.02f}%\t'
                 f'Breakeven: <{x["breakeven"]:,.02f}\t'
-                
+                f'Per Day: {profit_per_day:,.02f}\t'
                 f'Long Volume: {x["long"]["volume"]}\t@ {percent_volume*100:,.02f}%'
             )
             print(msg)
@@ -228,6 +232,7 @@ if args.exp:
             if x['roc'] < args.roc: continue
             size = int(int(args.size) // x['margin'])
             percent_volume = (size / x['long']['volume'])
+            profit_per_day = x['net_credit'] / dte
             msg = (
                 f'[[ L {x["long"]["strike"]} / '
                 f'S {x["short"]["strike"]} ]]\t'
@@ -237,6 +242,7 @@ if args.exp:
                 f'Return: {x["roc"]*100:,.02f}%\t'
                 f'Probability: {x["pop"]:,.02f}%\t'
                 f'Breakeven: >{x["breakeven"]:,.02f}\t'
+                f'Per Day: {profit_per_day:,.02f}\t'
                 f'Long Volume: {x["long"]["volume"]}\t@ {percent_volume*100:,.02f}%'
             )
             print(msg)
@@ -254,6 +260,7 @@ if args.exp:
             if x['roc'] < args.roc: continue
             size = args.size // abs(x['net_debit'])
             percent_volume = (size / x['long']['volume'])
+            profit_per_day = x['max_profit'] / dte
             msg = (
                 f'[[ L {x["long"]["strike"]} / '
                 f'S {x["short"]["strike"]} ]]\t'
@@ -263,6 +270,7 @@ if args.exp:
                 f'Return: {x["roc"]*100:,.02f}%\t'
                 f'Probability: {x["pop"]:,.02f}%\t'
                 f'Breakeven: <{x["breakeven"]:,.02f}\t'
+                f'Per Day: {profit_per_day:,.02f}\t'
                 f'Long Volume: {x["long"]["volume"]}\t@ {percent_volume*100:,.02f}%'
             )
             print(msg)
@@ -275,6 +283,7 @@ if args.exp:
             if x['roc'] < args.roc: continue
             size = args.size // abs(x['net_debit'])
             percent_volume = (size / x['long']['volume'])
+            profit_per_day = x['max_profit'] / dte
             msg = (
                 f'[[ L {x["long"]["strike"]} / '
                 f'S {x["short"]["strike"]} ]]\t'
@@ -284,6 +293,7 @@ if args.exp:
                 f'Return: {x["roc"]*100:,.02f}%\t'
                 f'Probability: {x["pop"]:,.02f}%\t'
                 f'Breakeven: >{x["breakeven"]:,.02f}\t'
+                f'Per Day: {profit_per_day:,.02f}\t'
                 f'Long Volume: {x["long"]["volume"]}\t@ {percent_volume*100:,.02f}%'
             )
             print(msg)
